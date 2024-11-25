@@ -1,5 +1,3 @@
-Here’s your updated README.md with a bit of background about your research paper:
-
 # Perceived Loudness Analysis
 
 This Python script calculates the perceived loudness of sound by analyzing its frequency components and applying psychoacoustic sensitivity factors (e.g., Fletcher-Munson curves). It is designed for analyzing sound effects, audio clips, or other `.wav` files to understand how different frequencies contribute to perceived loudness.
